@@ -1,5 +1,6 @@
 package io.github.hobbstech.bpm.commons;
 
+import io.github.hobbstech.bpm.commons.validations.CommandValidator;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
