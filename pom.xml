@@ -25,7 +25,7 @@
         <camunda.version>3.4.0</camunda.version>
         <camunda-spin.version>1.7.4</camunda-spin.version>
         <spring-boot-starter-data-jpa.version>2.1.11.RELEASE</spring-boot-starter-data-jpa.version>
-        <spring-security.version>5.2.5.RELEASE</spring-security.version>
+        <spring-security.version>5.7.12</spring-security.version>
     </properties>
 
     <dependencies>
